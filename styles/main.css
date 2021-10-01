@@ -1,6 +1,16 @@
 body {
     background: hotpink
 }
+.smash {
+    font-size: 50px;
+}
+
+.aim {
+    background: yellow;
+}
+.likeAndSub {
+    background: greenyellow
+}
 
 .bar {
     margin: 40px;
