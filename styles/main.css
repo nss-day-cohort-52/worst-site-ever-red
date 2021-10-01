@@ -1,7 +1,6 @@
 body {
     background: hotpink
 }
-<<<<<<< HEAD
 
 .contact_us {
         text-decoration-line: underline;
@@ -18,7 +17,6 @@ body {
         to {background-color: yellow;}
       }
 }
-=======
 .smash {
     font-size: 50px;
 }
@@ -53,4 +51,3 @@ body {
 .links {
     font-weight: bolder;
 }
->>>>>>> master
